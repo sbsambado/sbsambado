@@ -34,15 +34,15 @@ I analyze large environmental and health datasets, run statistical models, creat
 - **R & RStudio** – Primary analysis environment  
 - **Git & GitHub** – Version control, reproducible workflows, collaboration  
 - **Data formats** – CSV, shapefiles, RDS  
-- **Mapping & Visualization** – `ggplot2`, `sf`, `tmap`  
+- **Mapping & Visualization** – `ggplot2`, `sf`, `rnaturalworld`, `tigiris`  
 
 ---
 
 ## 🔹 Contact
 
-- Email: sbsambado@gmail.com  
-- ORCID: [Your ORCID link]  
-- [LinkedIn](Your LinkedIn URL) | [Personal website](Your website URL)
+- Email: sbsambado@gmail.com  / ssambado@stanford.edu
+- ORCID: [0000-0002-2594-3641]  
+- [Personal website](https://samsambado.weebly.com/)
 
 
 <!--
