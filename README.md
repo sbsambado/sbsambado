@@ -2,7 +2,7 @@
 
 I'm Sam. I enjoy bringing together large environmental & health data sets and building statistical models (see [global_tbv](https://github.com/sbsambado/global_tbvs) or [wnv_USdrivers](https://github.com/sbsambado/wnv_USdrivers)). I also enjoy teaching students who are new to coding & biostats (see [Biometry_HOTgrant](https://github.com/sbsambado/Biometry_HOTgrant)). Most of what I do is in R. I'm always looking to improve my maps.
 
-![Eco-Socio Drivers of OROV in South America](images/fig4_orov_ecology.png)
+![Key environmental and social drivers of emerging diseases](images/fig3_context.png)
 
 Contact Info:
 - Email: sbsambado@gmail.com  / ssambado@stanford.edu
