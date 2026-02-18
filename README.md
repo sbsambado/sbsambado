@@ -4,6 +4,8 @@ I'm Sam. I enjoy bringing together large environmental & health data sets and ru
 
 ![Eco-Socio Drivers of OROV in South America](fig4_ecology.png) 
 
+![Eco-Socio Drivers of OROV in South America](https://raw.githubusercontent.com/sbsambado/sbsambado/main/fig4_ecology.png)
+
 
 Contact Info:
 - Email: sbsambado@gmail.com  / ssambado@stanford.edu
