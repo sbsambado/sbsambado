@@ -1,45 +1,10 @@
 ## Hi there 👋
 
-I'm Sam. I'm a postdoctoral 
+I'm Sam. I enjoy bringing together large environmental & health data sets and running statistical models (see [global_tbv](https://github.com/sbsambado/global_tbvs), [wnv_USdrivers](https://github.com/sbsambado/wnv_USdrivers), or [ucnrs_wildfire](https://github.com/sbsambado/ucnrs_wildfire). I also enjoy teaching students who are new to coding & biostats (see [Biometry_HOTgrant](https://github.com/sbsambado/Biometry_HOTgrant). Most of what I do is in R. I'm always looking to improve my maps.
 
-Postdoctoral Researcher | Environmental & Health Data Scientist  
+![]() 
 
-I analyze large environmental and health datasets, run statistical models, create reproducible figures and maps, and develop workflows in R.  
-
----
-
-## 🔹 Featured Manuscripts / Papers
-
-- [WNV Water Study](https://github.com/sbsambado/paper_wnv_water) – Analysis of West Nile Virus in water systems  
-- [Tick Recreation Analysis](https://github.com/sbsambado/paper_tick_recreation) – Modeling human-tick interactions and disease risk  
-
----
-
-## 🔹 Key Projects
-
-- [wnv_water_analysis](https://github.com/sbsambado/wnv_water_analysis) – Data processing, visualization, and modeling scripts for WNV project  
-- [tick_recreation_analysis](https://github.com/sbsambado/tick_recreation) – Reproducible workflow for tick exposure and recreational data  
-
----
-
-## 🔹 Teaching & Workshops
-
-- [Quant Classes](https://github.com/sbsambado/quant_classes) – Consolidated scripts from quantitative methods classes during PhD  
-- [Workshop Tidymodels](https://github.com/sbsambado/workshop_tidymodels) – Workshop exercises and examples  
-
----
-
-## 🔹 Tools & Workflow
-
-- **R & RStudio** – Primary analysis environment  
-- **Git & GitHub** – Version control, reproducible workflows, collaboration  
-- **Data formats** – CSV, shapefiles, RDS  
-- **Mapping & Visualization** – `ggplot2`, `sf`, `rnaturalworld`, `tigiris`  
-
----
-
-## 🔹 Contact
-
+Contact Info:
 - Email: sbsambado@gmail.com  / ssambado@stanford.edu
 - ORCID: [0000-0002-2594-3641]  
 - [Personal website](https://samsambado.weebly.com/)
