@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Samantha Sambado
+I'm Sam. I'm a postdoctoral 
 
 Postdoctoral Researcher | Environmental & Health Data Scientist  
 
