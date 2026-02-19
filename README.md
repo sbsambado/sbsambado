@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Sam. I enjoy bringing together large environmental & health data sets and building statistical models (see [global_tbv](https://github.com/sbsambado/global_tbvs) or [wnv_USdrivers](https://github.com/sbsambado/wnv_USdrivers)). I also enjoy teaching students who are new to coding & biostats (see [Biometry_HOTgrant](https://github.com/sbsambado/Biometry_HOTgrant)). Most of what I do is in R. I'm always looking to improve my maps.
+I'm Sam. I enjoy bringing together large environmental & health data sets and building statistical models (see [global_tbv](https://github.com/sbsambado/global_tbvs) or [wnv_USdrivers](https://github.com/sbsambado/wnv_USdrivers)). I also enjoy teaching students who are new to biostats & coding (see [Biometry_HOTgrant](https://github.com/sbsambado/Biometry_HOTgrant)). Most of what I do is in R. I'm always looking to improve my maps.
 
 ![Key environmental and social drivers of emerging diseases](images/fig3_context.png)
 
